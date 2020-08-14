@@ -26,7 +26,9 @@ https://twitter.com/TechParida/status/1293805234435702784?s=20
 
 
 ## DataScience
-# Python
+### General
+https://twitter.com/VeronicaBlancoR/status/1291105680733200384?s=20
+### Python
 https://twitter.com/LearnAndProg/status/1293461219957825538?s=20
 https://towardsdatascience.com/collecting-data-science-cheat-sheets-d2cdff092855
 
