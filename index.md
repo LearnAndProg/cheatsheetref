@@ -10,6 +10,13 @@ Certaines peuvent être redondantes, du coup n'hésitez pas à le signaler. Enfi
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
+## C (ANSI)
+### core
+https://www.docdroid.net/ug3DhjB/c-reference-card-ansi-22.pdf
+
+## C# & .Net
+https://www.yumpu.com/en/document/read/27753003/core-c-and-net-quick-reference-pdf-digilife-be
+
 ## Conda
 https://twitter.com/LearnAndProg/status/1294220796756287489?s=20
 
@@ -21,6 +28,7 @@ https://twitter.com/TechParida/status/1293805234435702784?s=20
 ## DataScience
 # Python
 https://twitter.com/LearnAndProg/status/1293461219957825538?s=20
+https://towardsdatascience.com/collecting-data-science-cheat-sheets-d2cdff092855
 
 
 ## GG Plot
@@ -46,6 +54,16 @@ https://twitter.com/MajoLedes/status/1293238270386753536?s=20
 ## HTTP status code
 https://twitter.com/siddharthkmr1/status/1293085314110459905?s=20
 
+## Java
+### Core
+https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/
+### exceptions
+https://www.edureka.co/blog/cheatsheets/java-exceptions-cheat-sheet/
+### Lambda & Stream (V8)
+https://extremeautomation.io/img/cheatsheets/cheat_sheet_java8.png
+### String
+https://www.edureka.co/blog/cheatsheets/java-string-cheat-sheet/
+
 
 ## Java vs C#
 https://twitter.com/rmassipr/status/1079794950068408323?s=20
@@ -53,6 +71,8 @@ https://twitter.com/rmassipr/status/1079794950068408323?s=20
 ## Javascript
 ### Array
 https://twitter.com/itsratonubaby/status/1291717711211499520?s=20
+### Collections
+https://www.jrebel.com/system/files/java-collections-cheat-sheet.pdf
 ### Date
 https://twitter.com/profulsadangi/status/1292357925457948673?s=20
 https://twitter.com/itxshakil/status/1294205371020582913?s=20
@@ -62,6 +82,9 @@ https://twitter.com/profulsadangi/status/1294169143218810884?s=20
 https://twitter.com/profulsadangi/status/1292640482250481665?s=20
 ### String
 https://twitter.com/siddharthkmr1/status/1292480695667843080?s=20
+
+## JQuery
+https://oscarotero.com/jquery/
 
 ## Linux 
 ### commands
@@ -80,6 +103,30 @@ https://twitter.com/SourabhSKatoch/status/1291383778812637185?s=20
 ## Markdown
 https://twitter.com/sunilc_/status/1291670055978012674?s=20
 
+## Node.JS
+### Express
+https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf
+
+## Perl
+http://www.cheat-sheets.org/saved-copy/perl-quick-reference-card.pdf
+
+## PHP
+http://www.cheat-sheets.org/saved-copy/php_cheat_sheet.pdf
+
+## Python
+### Core 
+https://sinxloud.com/fr/python-cheat-sheet-beginner-advanced/
+https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+### Numpy
+https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/
+### Pandas
+https://fr.scribd.com/document/371675947/Pandas-Cheat-Sheet-for-Data-Science-in-Python
+https://ashutoshtripathi.com/pandas-cheat-sheet/
+### Scikit-learn
+https://ainfographics.wordpress.com/2017/12/07/python-scikit-learn-cheat-sheet/
+### Seaborn
+https://python-graph-gallery.com/cheat-sheets/
+
 
 ## R
 ### DISTR6
@@ -97,6 +144,9 @@ https://twitter.com/daily_r_sheets/status/1292656943291564032?s=20
 
 ## Rails
 https://twitter.com/iggredible/status/1293214365823442945?s=20
+
+## Ruby
+http://www.testingeducation.org/conference/wtst3_pettichord9.pdf
 
 ## Swift
 ### Array
