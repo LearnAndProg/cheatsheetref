@@ -11,7 +11,7 @@ Certaines peuvent être redondantes, du coup n'hésitez pas à le signaler. Enfi
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ## Conda
-[Link](https://twitter.com/LearnAndProg/status/1294206625499291649?s=20)
+https://twitter.com/LearnAndProg/status/1294206625499291649?s=20
 
 ## CSS
 ### Selectors
